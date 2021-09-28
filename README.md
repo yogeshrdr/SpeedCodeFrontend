@@ -165,14 +165,6 @@ used JudgeOCE Api for Online Complier
    
      
 
-<!-- CONTRIBUTING -->
-## Contributors
-Contributors for this Website
-<p align="left">
-<img width=20% src="https://avatars1.githubusercontent.com/u/70858211">&ensp;&ensp;&ensp;
-<img width=20% src="https://avatars.githubusercontent.com/u/60354875">&ensp;&ensp;&ensp;
-
-</h4></a>
 
 
 
