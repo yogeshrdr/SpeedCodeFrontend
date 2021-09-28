@@ -172,12 +172,7 @@ Contributors for this Website
 <img width=20% src="https://avatars1.githubusercontent.com/u/70858211">&ensp;&ensp;&ensp;
 <img width=20% src="https://avatars.githubusercontent.com/u/60354875">&ensp;&ensp;&ensp;
 
-</p>
-<a href="https://github.com/yogeshrdr">
-<h4 align="left"><b>Yogesh</b></a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-<a href="https://github.com/VAIBHAVJOE101"><b>Vaibhav Joshi</b>
-
- </h4></a>
+</h4></a>
 
 
 
