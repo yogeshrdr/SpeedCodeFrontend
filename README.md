@@ -177,8 +177,7 @@ Contributors for this Website
 <h4 align="left"><b>Yogesh</b></a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 <a href="https://github.com/VAIBHAVJOE101"><b>Vaibhav Joshi</b>
 
-  
-  </h4></a>
+ </h4></a>
 
 
 
