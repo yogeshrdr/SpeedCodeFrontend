@@ -121,7 +121,7 @@ Here You can See how to Website Works
   ![Alt Text](https://media.giphy.com/media/DylPogmtATVaqJLuif/giphy.gif?cid=790b761156fbdb18beda8822e375aa689926601e40e11572&rid=giphy.gif&ct=g)
 
 ### Competitive Questions
-Get Sorted Competitve Questions from the coding platform
+Get Sorted Competitve Questions from all the main coding platforms
     * [GFG](https://getbootstrap.com)
     * [Codeforces](https://getbootstrap.com)
     * [CodeChef](https://getbootstrap.com)
