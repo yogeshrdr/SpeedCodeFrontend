@@ -120,8 +120,8 @@ Here You can See how to Website Works
   ```
   ![Alt Text](https://media.giphy.com/media/DylPogmtATVaqJLuif/giphy.gif?cid=790b761156fbdb18beda8822e375aa689926601e40e11572&rid=giphy.gif&ct=g)
 
-### Competitive Question
-Get Sorted Competitve Question from the coding platform
+### Competitive Questions
+Get Sorted Competitve Questions from the coding platform
     * [GFG](https://getbootstrap.com)
     * [Codeforces](https://getbootstrap.com)
     * [CodeChef](https://getbootstrap.com)
@@ -139,7 +139,7 @@ Get Sorted Competitve Question from the coding platform
     ```
    ![Alt Text](https://media.giphy.com/media/yyThqCrCaHxgpEj8qo/giphy.gif?cid=790b76113afdffcfeff9b45adce29f5f46434ba1d588f7e6&rid=giphy.gif&ct=g)
      
-### DSA vedios
+### DSA videos
 used React player npm package 
 ```js
   "Go to the link you like"
