@@ -159,6 +159,7 @@ used Dante3 Editor for Blogs Editing Option
 used JudgeOCE Api for Online Complier 
 ```js
   "Website/Compiler"
+  "Used judgeoce"
 ```
 
 ![Alt Text](https://media.giphy.com/media/MwzI2f1YOa8BbdWFnn/giphy.gif?cid=790b7611c320135dab96658f1fcd71232febdb37641f8784&rid=giphy.gif&ct=g)
