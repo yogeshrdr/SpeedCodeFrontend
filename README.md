@@ -9,7 +9,7 @@
   </a>
 
   <h3 align="center">SpeedCode</h3>
-   <a href="https://github.com/yogeshrdr/SpeedCodeServer">Server Github Repo/a>
+   <a href="https://github.com/yogeshrdr/SpeedCodeServer">Server Github Repo</a>
   <p align="center">
     Get Best Competitive Programming Sorted Question and Vedios
     <br />
